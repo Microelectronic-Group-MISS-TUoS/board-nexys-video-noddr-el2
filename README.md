@@ -1,4 +1,4 @@
-## RVfpgaEL2 SoC - Nexys Video Sub-Repository
+## RVfpgaEL2 SoC - Nexys Video NoDDR Sub-Repository
 
 This is a sub-repository of the **RVfpgaEL2 SoC** adapted for the **Nexys Video** board.  
 It includes all source files, **build scripts**, programming/debug configuration files, and simulation/testbench sources.  
